@@ -15,7 +15,7 @@ It includes a username and password input form, displays the submitted values, a
 ---
 
 ##  Tech Stack
-- Python 3.x  
+- Python 3.x
 - Django 4.x / 5.x  
 - HTML5  
 
